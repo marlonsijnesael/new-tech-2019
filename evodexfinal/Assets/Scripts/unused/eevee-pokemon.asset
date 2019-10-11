@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3546f574be3f9334aaab67cc51dac0fe, type: 3}
+  m_Name: eevee-pokemon
+  m_EditorClassIdentifier: 
+  Name: eevee
+  Type: 9
+  Description: Eevee has an unstable genetic makeup that suddenly mutates due to
+    the environment in which it lives.
+  pokemonModel: {fileID: -5086043245935418659, guid: 3713ed9c63fb854438e07cf78e407853,
+    type: 3}
+  textures:
+  - {fileID: 2100000, guid: a81b190cfe3e6cf4e98525b49e073a85, type: 2}
+  - {fileID: 2100000, guid: 30f470341bd49c74e875d3e27688663d, type: 2}
+  - {fileID: 2100000, guid: 1916f8caddbf8c347bc0e0242fd4fafb, type: 2}

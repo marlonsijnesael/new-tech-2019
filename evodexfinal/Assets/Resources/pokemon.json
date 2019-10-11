@@ -1,0 +1,14 @@
+{
+  "Items": [
+    {
+      "pokemonName": "eevee",
+      "pokemonDescription": "coolkid",
+      "prefabName": "prefab_eevee"
+    },
+    {
+      "pokemonName": "dragonite",
+      "pokemonDescription": "coolestkid",
+      "prefabName": "prefab_dragonite"
+    }
+  ]
+}

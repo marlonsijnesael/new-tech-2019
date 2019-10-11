@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="1070847" size="1.000000 1.393189" />
+    <ImageTarget name="eevee" size="1.000000 1.421801" />
+    <ImageTarget name="hqdefault" size="0.500000 0.375000" />
+    <ImageTarget name="maker" size="0.050000 0.139130" />
+  </Tracking>
+</QCARConfig>

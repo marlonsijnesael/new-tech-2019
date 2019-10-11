@@ -1,0 +1,14 @@
+{ 
+   "pokemons":[ 
+      { 
+         "pokemonName":"eevee",
+         "pokemonDescription":"genetic pokemon",
+         "PrefabName":"prefab_Eevee"
+      },
+      { 
+        "pokemonName":"dragonite",
+         "pokemonDescription":"dragon pokemon",
+         "PrefabName":"prefab_Dragonite"
+      }
+   ]
+}
